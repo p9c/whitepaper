@@ -10,7 +10,9 @@
 
 ---
 
-## Open, Programmable, Distributed Business Administration Systems for All
+## 0. Introduction 
+
+### Open, Programmable, Distributed Business Administration Systems for All
 
 The greatest challenge for cryptocurrency and related open and public
 distributed network systems is integration, but this is not unique to it, it is
@@ -19,52 +21,97 @@ companies since the 1970s.
 
 In any company with more than a handful of employees, there is likely at least
 one user who can at least construct a multi-page spreadsheet with basic sums,
-averages and so forth, to generate financial reports and evaluate projections.
+averages and so forth, to generate financial reports and evaluate 
+projections. This type of capability slides gently towards programming, and 
+can go quite deep in the direction of allowing the creating algorithms.
 
 The number one software company in the world for the majority of the last 50
 years is Microsoft, whose key business strategy was in building business data
-administration systems that were usable by minimally trained and skilled users.
+administration systems that were usable and *customizable* by minimally 
+trained and skilled users.
 
 The one thing that Microsoft understood best was that businesses need
 interoperability of data and granular depth of access to programmability of the
-applications, to fit the business's needs, organisational communication
-structure and protocols, and the business operators' philosophies.
+applications, to fit the business's needs, its personnel, organisational 
+communication structure and protocols, and the business operators' philosophy.
 
 Cryptocurrency represents the first and most foundational element of a complete
 business network administration system, a financial ledger, that can be trusted
-without needing to trust any individual or group participating in the network.
+without needing to trust any individual or group participating in the 
+network. In many projects since the first appearance of Bitcoin, many other 
+features and programmability other consensus mechanisms for preventing 
+centralization of control of the ledger.
 
 ## 1. Evolution of Open, Distributed Business Administration Systems
 
-### Bitcoin
+### 1.1 Bitcoin
 
 #### Permissionless, Accountless, Trustless, Reliable Distributed Financial Ledger
 
 Bitcoin was the first distributed database system that is reliable enough to be
 trusted while distributing the risk of malicious network participants such that
-the cost of bad behaviour is higher than the potential gain.
+the cost of bad behaviour is higher than the potential gain, to prevent the 
+arbitrary issuance of new tokens outside of the consensus network rules laid 
+down in the source code, which must apply the same protocol rules throughout 
+the network, or it partitions into multiple networks, damaging the value of 
+the token and destroying trust in the network.
 
-It has confused pundits and experts alike for some time what it really is about,
-some focus on its use of artificial scarcity, some focus on the inherently
-conservative governance created by a system with purely staked participation in
-its development direction, due to their ability to embargo updates to the
-protocol, causing a fork and damage to the interests of all with such stakes at
-risk, while still others focus on its survivability compared to more brittle
-centralised systems.
+### It has confused pundits and experts alike for some time what it really is about:
 
-> ### The one thing all businesses have in common is money
+- Some focus on its use of artificial scarcity; 
 
-It is not necessary to deal in either borrowing or lending, and outside of this
-is the laws of business conduct, such as contracts of sale and lease, which must
-have human adjudication.
+- Some focus on the inherently conservative governance created by a system 
+with purely staked participation in its development direction, due to their 
+ability to embargo updates to the protocol, causing a fork and damage to the 
+interests of all with such stakes at risk; 
 
-Money, however, before the concept of distributing some or all of the paper
-records started to emerge with, first, printing presses, then typewriters, and
-finally computers, evolving from punch cards through spinning disks to
-microchips with billions of operations MTBF, as a distributed ledger is 
-susceptible to being altered to benefit one group against the entire rest of 
-the marketplace who use the currency issued by this group, and trusting the 
-veracity of this group's clear privilege to author any record it wants recorded.
+- While still others focus on its survivability compared to more brittle
+centralised systems, that often have a single point at which failure 
+destroys the functionality of the entire system.
+
+#### The one thing all businesses have in common is money
+
+A business does not necessarily need to participate in these higher
+abstractions over top of the distributed ledger; beyond this, into such 
+things as lending, securitization, and hypothecation, 
+
+Money originally started with the use of compact, portable, and scarce 
+physical tokens, or divisible and universally marketable materials such as 
+salt, tobacco, alcohol, and so on, that by its nature prevents a false 
+record developing, and facilitates the collective creation of a record of 
+who has benefited who the most, since the amount of tokens reflects the 
+relative valuation against the product or service it monetizes. 
+
+It is the expense of producing a valid token that gives trust in its ability 
+to hold and convey the notion of value across an economy.
+
+In various ways, such as debasement, and outright theft, robbery or 
+usurious lending i.e.: unilaterally renegotiating interest rates, interest rate 
+controls or printing claims (the origin of paper money) for the physical 
+monetary asset that cannot be converted back to the backing asset; such as 
+what led to the endless series of bank runs in the 19th century.
+
+Gradually, over the last 1000 years, this has shifted towards some form of 
+distributed ledger, as well as printed money, invented originally by the 
+Chinese, which acts as a substitute for coins by embodying the scarcity in a 
+difficult to reproduce, and recognisable proof of authenticity, however, 
+generally nearly infinitely cheaper than the long established use of 
+monetary metals, gold, silver and copper, and like coating ingots of 
+tungsten with a thin layer of gold to inflate the price it can fetch in 
+exchange for goods, services, and other currencies.
+
+The modern monetary system is entirely based on electronic storage of 
+ledgers that are from central banks, and then further, within the internal 
+records of private banking organisations.
+
+The use of the word 'money' in such a context becomes increasingly 
+inappropriate, as it is more like an invisible version of the divisible 
+universally marketable materials like salt, alcohol, tobacco, and other 
+similarly widely used materials. Bitcoin has for this, the Satoshi, 1/100,
+000,000 units per 'one' coin, acting like the smallest denomination of a 
+metallic token.
+
+#### Really, this has long been the age of the distributed ledger, well before 2009.
 
 The greatest source of power within a distributed ledger is that of authorship.
 Who has the authority to cause a particular record to become canonical and thus
@@ -76,33 +123,37 @@ subtle way?
 At the centre of the proposal for the protocol proposed by the pseudonymous
 Satoshi Nakamoto was the idea of creating a distributed lottery for the right to
 be the author of a batch of records in this financial ledger, thus distributing
-the risk of false records being made canonical, and using probability to
-progressively raise the cost of having an altered record become trusted.
+the risk of false records being made canonical, and using probability limit 
+supply and to progressively raise the cost of having an altered record 
+become trusted.
 
-### Ethereum
+### 1.2 Ethereum
 
 #### Programmable Distributed Database Application Layer
 
 The programmability tends to be the attention grabbing part of the description
 of this system, but it is not this that makes it both an innovation, and the
-basis for further refinements in the scope of what can be done to reduce error
-and automatically defend against fraud in consensus business records.
+basis for further refinements and expansions in the scope of what kinds of data 
+with monetary value can be stored.
 
 But what is more important is also more subtle - it is about allowing the
-creation of arbitrary new recompositions of user input and data stored in the
-financial database and other databases such as the 'gas' that evaluates code by
-its processing costs and data weight to ensure that blocks are produced within a
-limited span, and the network cannot be gridlocked by spammy processing, the
-first and most important of the many little databases that an ethereum node
-stores.
+creation of arbitrary new recompositions of user input and existing data stored 
+in the financial database and other databases. The first such other database 
+is the Gas token, that evaluates code by its processing costs and data 
+weight to ensure that blocks are produced within a limited span, and the 
+network cannot be gridlocked by spammy processing, the first and most 
+important of the many little databases, *other than a financial ledger*, 
+that an ethereum node stores.
 
-The emerging downside of the technology is that the encoding of applications
-into immutable blockchains is quite expensive in space, taxes the serial
-processing nature of the Nakamoto Consensus upon which it has been unable to
-completely separate itself (due to the unarguably extremely strong safety of
-transactions beyond a certain age), and led to several strategies that followed.
+The emerging downside of the technology is that the encoding of application code
+into immutable blockchains is quite expensive in space, and further taxes the 
+serial processing nature of the Nakamoto Consensus upon which it has been 
+unable to completely separate itself (due to the unarguably extremely strong 
+safety of transactions beyond a certain age). The project has been 
+attempting to switch to stake-based systems but the users, whose systems run 
+the protocol, have resisted this because of its centralization potential.
 
-### Tendermint and Cosmos
+### 1.3 Tendermint and Cosmos
 
 #### Separating Consensus and Execution
 
@@ -124,18 +175,33 @@ perfectly, there is always one or more element that has a limitation that
 provides the ability to give strong guarantees about the other, mutually
 exclusive properties in the protocol.
 
-#### Consensus is A Protocol Level
+It has been proving to be an innovation that cannot stand by itself, and the 
+reason why staked systems have become more common is only because of their 
+exchangeabilty with tokens generated through the use of energy to perform the 
+mining of new tokens with Proof of Work. 
+
+However, its utility especially for consortiums of independent, usually 
+competing network node operators, is now allowing it to become an accepted 
+and trusted mechanism for distribution of the new tokens minted to both 
+provide security and incentives for innovation in the space.
 
 A key element of the Tendermint design is that it separates the validation from
 the replication. This creates an agnostic base level to the protocol that can be
 then used to carry any kind of data in a batched, cryptographically chained
-block format.
+block format, storing data beyond simple monetary, into market intelligence 
+and coordination data.
 
 This greatly simplified the process of building a new protocol - it was not
 necessary to build a scripting engine into the server, but instead to be able to
 write it in a language that compiles down to fast binary code, and the time cost
 of taking a database application and turning it into a distributed database
-application has been greatly reduced.
+application has been greatly reduced, and rolling out a new network is often 
+just a matter of a some configuration and a small amount of extra 
+application layer code, leading to a proliferation of specialised networks, 
+and further, the same basic principles have led to Polkadot, which mainly is 
+distinguished by its different primary implementation language, but equally 
+implementation agnostic and implementable in other languages as suits the 
+project's access to the programming labor pool.
 
 #### Finality
 
@@ -143,19 +209,29 @@ At the very head of a blockchain whose head is chosen by the highest cumulative
 total of work along its path, there is the possibility and both malicious and
 accidental, network- and machine- failure caused corruption of blocks that can
 be mined on prior blocks in parallel, and it is only the high probability of the
-majority of miners being honest enough to maintain the value of the network,
-this is an assumption that depends on total domination of the market in miners.
+majority of miners being honest enough to maintain the value of the network.
 
-But outside of Bitcoin, the number of miners per chain is far smaller and there
-can be overlaps between mining capability and several chains that can allow
-concentrated hashpower attacks, that have occurred several times previously.
+The necessary cost of a delay before strong confirmation of a transaction 
+when using a probabalistic security model as used in the Nakamoto Consensus
+makes the operation of applications with a lower latency requirement
+impossible. 
 
-The necessary cost of a delay before strong confirmation of a transaction is
-available makes the operation of applications with a lower latency requirement
-impossible. The most extreme form is realtime massive multiplayer games, which
+The most extreme form is realtime massive multiplayer games, which
 further add the existence of multiple parallel 'spaces'. Limiting a whole 
 ecosystem to the capacity of one, however high spec, server machine, greatly 
 limits the possible applications where updates need to be more timely.
+
+By making transactions final shortly after their initial publication, the 
+data can be used more quickly and settlement is effectively instantaneous, 
+within the timespan required to produce the consensus that is considered to 
+be finality by network participants.
+
+Further, the easy deployment of new chains gets around the serial nature of 
+a network consensus by dividing the consensus by chains, which has proven 
+far more viable than attempts to shard the ledger into arbitrarily related 
+elements that can then run in parallel. As such, the number of chains based 
+on this and similar types of consensus protocol has exploded rapidly since 
+it was brought to market.
 
 #### Transportability of Ledgers
 
@@ -167,23 +243,26 @@ multiple networks transparently, tokens are locked on one and proof of the
 lock is used to issue new, identical tokens on the other chain.
 
 Parallelcoin is building a unified application environment that allows 
-programmability at all levels of the system, from protocol to interface.
+programmability at all levels of the system, from protocol to interface, 
+without the cost of serial processing, adding the ability to move more and 
+more of the chain data to more transient stores, reducing blockchain data 
+weight and providing a greater variety of ways to participate in the network.
 
 ## 2. The Parallelcoin Pod
 
 The central concept behind the Pod can be expressed in well known eastern
 european Matryoshka dolls. Everything in the system has a container type that
 can carry a message intended for a different processing system, with the only
-common limitation of requiring a public key or address and the signature on it
-to prove authenticity.
+common limitation of requiring a public key or address, and the signature on it
+to prove authenticity and/or privilege to do so.
 
 This is essentially the same as the Tendermint model, in that transactions are
 generalised, and the validation is separate though the validator governs the
 re-distribution of a received message or its processed product.
 
 Where Pod goes further is not in only the base layer, but rather in a holistic
-view of the application starting from the user input and ending at the network
-protocol.
+view of the application starting from the user input and the GUI down to the 
+network protocol.
 
 Most blockchain wallets have some kind of RPC console built into them, and in
 this console, with varying degrees of interface sophistication, one can query
@@ -194,7 +273,7 @@ with, but the sophistication of these interfaces has been pretty much halted at
 a level that is far below that of even basic CLI interfaces like the `sh`
 command interpreter.
 
-#### Even young children can construct a basic script
+###### Even young children can construct a basic script
 
 It could even be argued that in fact, narrative, the serialisation of a series
 of expressions into a coherent message that conveys some kind of information is
@@ -206,10 +285,10 @@ What things come first, which things can occur in parallel or have non-competing
 delays, and the productivity of a worker exactly relates to their ability to
 learn to perform the task in the way that straightens out the nebulous cloud of
 requirements into a directed acyclic graph showing the various steps in the
-process and includes parts where parallelisation is visible, such as waiting for
-dough to rise, or a solution to settle out solids.
+process and includes parts where parallelization is visible, such as waiting for
+dough to rise, a mopped floor to dry, or a solution to settle out solids.
 
-#### From small, open things, great and complex things grow
+###### From small, open things, great and complex things grow
 
 Not every need of a person wanting to keep business records or conduct
 transactions of business records with another business is complicated. The web
@@ -222,25 +301,25 @@ business.
 By making scripting, and eventually programming, from network protocol to GUI,
 accessible to the user only limited by their technical skill, and making the
 blockchain a first class citizen in the programming environment, the Pod will do
-for cryptocurrency what Microsoft did for word processing, spreadsheets and
-databases.
+for cryptocurrency what Microsoft did for word processing, spreadsheets, 
+email, calendars and databases.
 
 ### 2.1 Phase 1: The Parallelcoin Plan 9 Hard Fork
 
-The first step in the process is capitalisation. The founder of the Community
-Takeover, Djordje Marcetin, is a significant holder of the rare Parallelcoin DUO
-token, and has funded and developed a significant part of the body of work that
-is going into the launch of the upcoming protocol upgrade.
+The first step in the process is capitalization. With the strong resistance 
+from the de facto monopoly cartel of banking institutions to cryptocurrency, 
+the use of securitization to fund development has been stifled. However, in 
+almost all cases, the core value proposition of all cryptocurrencies comes 
+from the innovations of the development teams who build them. 
 
-Equity markets have a very high lower bound for entry, and in any case require
-some kind of demonstration of the capabilities of the team to produce the
-promised systems. Thus, the upgrading, securing, and promotion of the use of the
-old platform and its tokens is a means to also secure development funding for
-the early adopters who are working also to bring a new and compelling product to
-the market that establishes a new baseline for what computing in the age of the
-internet should be about.
+Thus, in effect, cryptocurrencies have been functioning as substitutes for 
+equity; many different approaches have been tried, such as Initial Coin 
+Offerings and other methods of initial distribution of part of the supply of 
+a token in exchange for funding of the development of the network, leading 
+to the capital required to fund development of further improvements and the 
+marketing of the network for its utilities.
 
-The hard fork includes:
+The features that are coming in the Plan 9 from Crypto Space Hard Fork include:
 
 - #### CPU oriented proof of work
   that depends on very large integer long division as a bottleneck step, thus
@@ -250,20 +329,22 @@ The hard fork includes:
   thus security, caused by this concentration, as seen in the established 
   ASIC based PoW coins.
 
-- #### 9 Parallel Block Intervals with Network Cost Orphan Minimization
+- #### 9 Parallel Block Intervals for more precise supply control and lower latency
 
   The block schedule is composed of 9 parallel schedules based on powers of 2,
   which each provide a reward that is in proportion with their consensus target
   average, with the base interval at 18 seconds, producing a resultant 
   average of 9 seconds between blocks.
 
-  This provides a more accurate census of the miner population, needed for
-  accurate difficulty adjustment, than a single interval, as each new block on
-  any of the intervals also triggers the recomputing of the targets of the other
-  intervals, without further complicating the data in the on-chain consensus, it
-  is derived through averaging of the history only, over several common and
-  interval-specific timespans extending up to 3600 times the longest, being 2304
-  seconds or 38.4 minutes, or 96 days.
+  This provides a more accurate census of the active miner population, 
+  needed for accurate difficulty adjustment, than a single interval, as each 
+  new block on any of the intervals also triggers the recomputing of the 
+  targets of the other intervals, without further complicating the data in 
+  the on-chain consensus as in Real Time Targets, it is derived through 
+  averaging of the history only, over several common and interval-specific 
+  spans extending from 18 seconds up 2304 seconds or 38.4 minutes - 
+  producing a multi-factor averaging that spans a total 
+  timespan of around 96 days.
   
   ##### Orphan Minimization
 
