@@ -391,7 +391,7 @@ The features that are coming in the Plan 9 from Crypto Space Hard Fork include:
   
 - #### Multiplatform GUI wallet built in pure Go
 
-  Go is a programming language generallly associated with scalable 
+  Go is a programming language generally associated with scalable 
   distributed networked database systems, and has had quite wide adoption in 
   the cryptocurrency space. It has a key advantage over the other languages used 
   in that it has a cooperative, work stealing scheduler that coordinates 
